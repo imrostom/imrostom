@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [easyjobs](https://easy.jobs/)
 
-- 🌱 I’m currently learning **React, Go etc**
+- 🌱 I’m currently learning **React, Node etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imrostom](https://github.com/imrostom)
 
