@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rostom</h1>
-<h3 align="center">Welcome to my profile! A passionate fullstack developer from bangladesh. currently i'm working at WpDeveloper. Thanks for visiting and I'd love to connect!</h3>
+<h3 align="center">Welcome to my profile! A passionate full-stack developer from Bangladesh. currently, I'm working at WpDeveloper. Thanks for visiting and I'd love to connect!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrostom&label=Profile%20views&color=0e75b6&style=flat" alt="imrostom" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [easyjobs](https://easy.jobs/)
 
-- 🌱 I’m currently learning **React, Node etc**
+- 🌱 I’m currently learning ** Node etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imrostom](https://github.com/imrostom)
 
-- 💬 Ask me about **PHP, Laravel, Codeigniter, Vue Js**
+- 💬 Ask me about **PHP, Laravel, React, Vue, Codeigniter**
 
 - 📫 How to reach me **rostomali@gmail.com**
 
