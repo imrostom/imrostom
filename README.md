@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [easyjobs](https://easy.jobs/)
 
-- 🌱 I’m currently learning ** Node etc**
+- 🌱 I’m currently learning Shopify, Remix, AWS, GCP
 
 - 👨‍💻 All of my projects are available at [https://github.com/imrostom](https://github.com/imrostom)
 
